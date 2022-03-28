@@ -4233,16 +4233,19 @@ input, select, textarea {
 			width: fit-content;
 			border-spacing:0px;
 			margin-bottom: 10pt;
+			color: black;
 		}
 		td.neon{
 			border: 1px solid white;
+			background-color: white;
+
 		}
 		tr.neon{
 			height: fit-content;
 			opacity: 0.5;
 		}
 		tr.neon:hover{
-			opacity: 1;
+			opacity: 0.8;
 		}		
 
 
